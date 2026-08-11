@@ -1,1 +1,1 @@
-const items = ["search","home"];
+const items = ["profil","home"]
