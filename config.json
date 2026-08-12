@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+
+{"name": "git-team-lab", "version": "0.1.0", "theme": "dark"}
+
+
 {"name": "git-team-lab", "version": "0.1.0", "theme": "light"}
-=======
 {
   "name": "git-team-lab",
   "version": "0.1.0",
@@ -10,4 +12,4 @@
   
 
 }
->>>>>>> develop
+
