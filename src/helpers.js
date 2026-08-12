@@ -1,5 +1,7 @@
 function slugify(text) {
     return text.toLowerCase().replace(/\s+/g, '-');
 }
-
-module.exports = { slugify };
+export function formatPrice(price) {
+    return `$${price}`;
+}
+module.exports = { slugify , formatPrice };
