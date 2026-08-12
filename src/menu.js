@@ -1,3 +1,6 @@
+
+const items = ["profil","home"]
+
 const utils = require('./utils');
 
 const menu = {
@@ -15,3 +18,4 @@ const menu = {
 };
 
 module.exports = menu;
+
